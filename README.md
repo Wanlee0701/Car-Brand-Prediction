@@ -4,6 +4,7 @@
 ---
 ## Introduction
 ![alt text](intro.jpg)
+
 This project utilizes machine learning techniques to build a classification model capable of predicting a car's brand (Company) based on sales transaction data and customer characteristics.
 
 ---
